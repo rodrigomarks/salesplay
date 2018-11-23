@@ -22,11 +22,11 @@ button.onclick = function () {
 
     if (content.className == "open") {
         content.className = "";
-        button.innerHTML = "Ver Mais";
+        button.innerHTML = "+ info";
 
     } else {
         content.className = "open";
-        button.innerHTML = "Ver Menos";
+        button.innerHTML = "- info";
     }
 
 }
@@ -35,11 +35,11 @@ button1.onclick = function () {
 
     if (content1.className == "open") {
         content1.className = "";
-        button1.innerHTML = "Ver Mais";
+        button1.innerHTML = "+ info";
 
     } else {
         content1.className = "open";
-        button1.innerHTML = "Ver Menos";
+        button1.innerHTML = "- info";
     }
 
 }
@@ -48,11 +48,11 @@ button2.onclick = function () {
 
     if (content2.className == "open") {
         content2.className = "";
-        button2.innerHTML = "Ver Mais";
+        button2.innerHTML = "+ info";
 
     } else {
         content2.className = "open";
-        button2.innerHTML = "Ver Menos";
+        button2.innerHTML = "- info";
     }
 
 }
@@ -61,11 +61,11 @@ button3.onclick = function () {
 
     if (content3.className == "open") {
         content3.className = "";
-        button3.innerHTML = "Ver Mais";
+        button3.innerHTML = "+ info";
 
     } else {
         content3.className = "open";
-        button3.innerHTML = "Ver Menos";
+        button3.innerHTML = "- info";
     }
 
 }
@@ -74,11 +74,11 @@ button4.onclick = function () {
 
     if (content4.className == "open") {
         content4.className = "";
-        button4.innerHTML = "Ver Mais";
+        button4.innerHTML = "+ info";
 
     } else {
         content4.className = "open";
-        button4.innerHTML = "Ver Menos";
+        button4.innerHTML = "- info";
     }
 
 }
@@ -87,11 +87,11 @@ button5.onclick = function () {
 
     if (content5.className == "open") {
         content5.className = "";
-        button5.innerHTML = "Ver Mais";
+        button5.innerHTML = "+ info";
 
     } else {
         content5.className = "open";
-        button5.innerHTML = "Ver Menos";
+        button5.innerHTML = "- info";
     }
 
 }
