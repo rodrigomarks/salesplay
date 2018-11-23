@@ -22,11 +22,11 @@ button.onclick = function () {
 
     if (content.className == "open") {
         content.className = "";
-        button.innerHTML = "+ info";
+        button.innerHTML = "Ver Mais";
 
     } else {
         content.className = "open";
-        button.innerHTML = "- info";
+        button.innerHTML = "Ver Menos";
     }
 
 }
@@ -35,11 +35,11 @@ button1.onclick = function () {
 
     if (content1.className == "open") {
         content1.className = "";
-        button1.innerHTML = "+ info";
+        button1.innerHTML = "Ver Mais";
 
     } else {
         content1.className = "open";
-        button1.innerHTML = "- info";
+        button1.innerHTML = "Ver Menos";
     }
 
 }
@@ -48,11 +48,11 @@ button2.onclick = function () {
 
     if (content2.className == "open") {
         content2.className = "";
-        button2.innerHTML = "+ info";
+        button2.innerHTML = "Mais";
 
     } else {
         content2.className = "open";
-        button2.innerHTML = "- info";
+        button2.innerHTML = "Menos";
     }
 
 }
@@ -61,11 +61,11 @@ button3.onclick = function () {
 
     if (content3.className == "open") {
         content3.className = "";
-        button3.innerHTML = "+ info";
+        button3.innerHTML = "Mais";
 
     } else {
         content3.className = "open";
-        button3.innerHTML = "- info";
+        button3.innerHTML = "Menos";
     }
 
 }
@@ -74,11 +74,11 @@ button4.onclick = function () {
 
     if (content4.className == "open") {
         content4.className = "";
-        button4.innerHTML = "+ info";
+        button4.innerHTML = "Mais";
 
     } else {
         content4.className = "open";
-        button4.innerHTML = "- info";
+        button4.innerHTML = "Menos";
     }
 
 }
@@ -87,11 +87,11 @@ button5.onclick = function () {
 
     if (content5.className == "open") {
         content5.className = "";
-        button5.innerHTML = "+ info";
+        button5.innerHTML = "Mais";
 
     } else {
         content5.className = "open";
-        button5.innerHTML = "- info";
+        button5.innerHTML = "Menos";
     }
 
 }
