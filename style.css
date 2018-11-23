@@ -1,0 +1,304 @@
+body {
+    font-family: "Segoe UI";
+    
+    max-width: 960px;
+    margin:auto;
+    background-color: #0071c5;
+}
+
+.topo {
+   margin: 20px 230px;
+    width: 500px;
+}
+
+
+h1 {font-size: 22px;
+color:darkslateblue}
+
+b {color:darkslateblue}
+
+#bodypage {
+    background-color: white;
+    box-shadow: 5px 5px 50px 15px darkslateblue; 
+}
+
+#model {
+    width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 500px;
+    margin: 20px 10px;
+    padding: 0px 5px 15px 5px;
+    max-height: 190px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+
+
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max-heigth 0.7s;
+}
+
+#model1 {
+   width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 500px;
+    margin: 20px 10px;
+    padding: 0px 5px 15px 5px;
+    max-height: 210px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+
+
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max-heigth 0.7s;
+}
+
+#model2 {
+    width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 500px;
+    margin: 20px 10px;
+    padding: 0px 5px 15px 5px;
+    max-height: 210px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+
+
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max-heigth 0.7s;
+}
+
+#model3 {
+    width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 500px;
+    margin: 20px 10px;
+    padding: 0px 5px 15px 5px;
+    max-height: 200px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+
+
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max-heigth 0.7s;
+}
+
+#model4 {
+    width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 500px;
+    margin: 20px 10px;
+    padding: 0px 5px 15px 5px;
+    max-height: 180px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+
+
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max-heigth 0.7s;
+}
+
+#model5 {
+    width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 500px;
+    margin: 20px 10px;
+    padding: 0px 5px 15px 5px;
+    max-height: 200px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+
+
+    -webkit-transition: max-height 0.7s;
+    -moz-transition: max-height 0.7s;
+    transition: max-heigth 0.7s;
+}
+
+.image {
+    width: 100px;
+    margin: 15px;
+
+}
+
+
+
+div.inline {
+    float: left;
+}
+
+#show-more {
+    display: block;
+    background-color: darkslateblue;
+    width: 70px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 8px 0px 8px 390px ;
+    cursor: pointer;
+    height: 12px;
+    padding: 10px 0;
+
+}
+#show-more1 {
+    display: block;
+    background-color: darkslateblue;
+    width: 70px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 8px 0px 8px 390px ;
+    cursor: pointer;
+    height: 12px;
+    padding: 10px 0;
+
+}
+
+#show-more2 {
+    display: block;
+    background-color: darkslateblue;
+    width: 70px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 8px 0px 8px 440px ;
+    cursor: pointer;
+    height: 12px;
+    padding: 10px 0;
+
+}
+#show-more3 {
+   display: block;
+    background-color: darkslateblue;
+    width: 70px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 8px 0px 8px 200px ;
+    cursor: pointer;
+    height: 12px;
+    padding: 10px 0;
+
+}
+#show-more4 {
+   display: block;
+    background-color: darkslateblue;
+    width: 70px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 8px 20px;
+    cursor: pointer;
+    height: 12px;
+    padding: 10px 0;
+}
+#show-more5 {
+    display: block;
+    background-color: darkslateblue;
+    width: 70px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 8px 0px 8px 470px ;
+    cursor: pointer;
+    height: 12px;
+    padding: 10px 0;
+
+}
+
+#model.open {
+    max-height: 1000px;
+
+
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
+
+
+}
+
+#model1.open {
+    max-height: 1000px;
+
+
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
+
+
+}
+
+#model2.open {
+    max-height: 1000px;
+
+
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
+
+
+}
+
+#model3.open {
+    max-height: 1000px;
+
+
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
+
+
+}
+
+#model4.open {
+    max-height: 1000px;
+
+
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
+
+
+}
+
+#model5.open {
+    max-height: 1000px;
+
+
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
+
+
+}
+
+div.text {
+    margin-left: 125px
+}

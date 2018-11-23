@@ -1,0 +1,288 @@
+
+var content = document.getElementById("model2");
+var button = document.getElementById("show-more2");
+var content = document.getElementById("model3");
+var button = document.getElementById("show-more3");
+var content = document.getElementById("model4");
+var button = document.getElementById("show-more4");
+var content = document.getElementById("model5");
+var button = document.getElementById("show-more5");
+
+
+
+#model2.open {
+	max-height: 1000px;
+	
+
+	-webkit-transition: max-heigth 2s;
+	-moz-transition: max-heigth 2s;
+	transition: max-heigth 2s;
+	
+	
+}
+
+#model3.open {
+	max-height: 1000px;
+	
+
+	-webkit-transition: max-heigth 2s;
+	-moz-transition: max-heigth 2s;
+	transition: max-heigth 2s;
+	
+	
+}
+
+#model4.open {
+	max-height: 1000px;
+	
+
+	-webkit-transition: max-heigth 2s;
+	-moz-transition: max-heigth 2s;
+	transition: max-heigth 2s;
+	
+	
+}
+
+#model5.open {
+	max-height: 1000px;
+	
+
+	-webkit-transition: max-heigth 2s;
+	-moz-transition: max-heigth 2s;
+	transition: max-heigth 2s;
+	
+	
+}
+
+
+   
+<div id="model2" class="model1">
+						            
+    <div class="inline"><a href="#series3" id="sseries" class="inline"><img class="image" src="img01.png"></a></div>
+    
+    	<h1>Desenvolvendo uma Cultura Orientada a Dados com Microsoft Power BI</h1>
+    
+    
+    
+        
+							<div class="inline"><p><b>Sales Play:</b> Modern Business Intelligence</p></div>
+    
+    <div class="inline"><a id="show-more2" class="show">Ver Mais</a></div>
+    
+    <div class="inline"><p><b>Objetivo: </b>Acelerar a implantação de uma arquitetura de dados e plataforma Business Intelligence através da avaliação do nível de maturidade de dados da empresa, direcionando modelos e boas práticas para deploy, governança e segurança da informação. <br /> <br /> Explorar os principais recursos e benefícios Power BI em ambiente cloud, on-premises e híbrido, com base em diferentes necessidades de negócio e cenários de licenciamento.</p></div>
+    
+   
+    
+    <div class="inline"><p>Technical Use Case: <br /> </p>
+    
+    <ul>
+        <li>Self-Services BI</li>
+        <li>On-premises BI Modernization</li>
+        <li>Build Modern Applications with Intelligence   </li>
+        
+        
+        
+        </ul></div>
+    
+     <div class="inline"><p>Links: <br /> </p>
+    
+    <ul>
+        <li>Strategy Briefing Paper</li>
+        <li>Hands-on Lab Paper</li>
+        <li>Template invite </li>
+        <li>Solicitar Agenda </li>
+        
+        
+        
+        </ul></div>
+
+
+					</div>
+
+<div id="model3" class="model1">
+						            
+    <div class="inline"><a href="#series3" id="sseries" class="inline"><img class="image" src="img01.png"></a></div>
+    
+    	<h1>Desenvolvendo uma Cultura Orientada a Dados com Microsoft Power BI</h1>
+    
+    
+    
+        
+							<div class="inline"><p><b>Sales Play:</b> Modern Business Intelligence</p></div>
+    
+    <div class="inline"><a id="show-more3" class="show">Ver Mais</a></div>
+    
+    <div class="inline"><p><b>Objetivo: </b>Acelerar a implantação de uma arquitetura de dados e plataforma Business Intelligence através da avaliação do nível de maturidade de dados da empresa, direcionando modelos e boas práticas para deploy, governança e segurança da informação. <br /> <br /> Explorar os principais recursos e benefícios Power BI em ambiente cloud, on-premises e híbrido, com base em diferentes necessidades de negócio e cenários de licenciamento.</p></div>
+    
+   
+    
+    <div class="inline"><p>Technical Use Case: <br /> </p>
+    
+    <ul>
+        <li>Self-Services BI</li>
+        <li>On-premises BI Modernization</li>
+        <li>Build Modern Applications with Intelligence   </li>
+        
+        
+        
+        </ul></div>
+    
+     <div class="inline"><p>Links: <br /> </p>
+    
+    <ul>
+        <li>Strategy Briefing Paper</li>
+        <li>Hands-on Lab Paper</li>
+        <li>Template invite </li>
+        <li>Solicitar Agenda </li>
+        
+        
+        
+        </ul></div>
+
+
+					</div>
+
+<div id="model4" class="model1">
+						            
+    <div class="inline"><a href="#series3" id="sseries" class="inline"><img class="image" src="img01.png"></a></div>
+    
+    	<h1>Desenvolvendo uma Cultura Orientada a Dados com Microsoft Power BI</h1>
+    
+    
+    
+        
+							<div class="inline"><p><b>Sales Play:</b> Modern Business Intelligence</p></div>
+    
+    <div class="inline"><a id="show-more4" class="show">Ver Mais</a></div>
+    
+    <div class="inline"><p><b>Objetivo: </b>Acelerar a implantação de uma arquitetura de dados e plataforma Business Intelligence através da avaliação do nível de maturidade de dados da empresa, direcionando modelos e boas práticas para deploy, governança e segurança da informação. <br /> <br /> Explorar os principais recursos e benefícios Power BI em ambiente cloud, on-premises e híbrido, com base em diferentes necessidades de negócio e cenários de licenciamento.</p></div>
+    
+   
+    
+    <div class="inline"><p>Technical Use Case: <br /> </p>
+    
+    <ul>
+        <li>Self-Services BI</li>
+        <li>On-premises BI Modernization</li>
+        <li>Build Modern Applications with Intelligence   </li>
+        
+        
+        
+        </ul></div>
+    
+     <div class="inline"><p>Links: <br /> </p>
+    
+    <ul>
+        <li>Strategy Briefing Paper</li>
+        <li>Hands-on Lab Paper</li>
+        <li>Template invite </li>
+        <li>Solicitar Agenda </li>
+        
+        
+        
+        </ul></div>
+
+
+					</div>
+    
+<div id="model5" class="model1">
+						            
+    <div class="inline"><a href="#series3" id="sseries" class="inline"><img class="image" src="img01.png"></a></div>
+    
+    	<h1>Desenvolvendo uma Cultura Orientada a Dados com Microsoft Power BI</h1>
+    
+    
+    
+        
+							<div class="inline"><p><b>Sales Play:</b> Modern Business Intelligence</p></div>
+    
+    <div class="inline"><a id="show-more5" class="show">Ver Mais</a></div>
+    
+    <div class="inline"><p><b>Objetivo: </b>Acelerar a implantação de uma arquitetura de dados e plataforma Business Intelligence através da avaliação do nível de maturidade de dados da empresa, direcionando modelos e boas práticas para deploy, governança e segurança da informação. <br /> <br /> Explorar os principais recursos e benefícios Power BI em ambiente cloud, on-premises e híbrido, com base em diferentes necessidades de negócio e cenários de licenciamento.</p></div>
+    
+   
+    
+    <div class="inline"><p>Technical Use Case: <br /> </p>
+    
+    <ul>
+        <li>Self-Services BI</li>
+        <li>On-premises BI Modernization</li>
+        <li>Build Modern Applications with Intelligence   </li>
+        
+        
+        
+        </ul></div>
+    
+     <div class="inline"><p>Links: <br /> </p>
+    
+    <ul>
+        <li>Strategy Briefing Paper</li>
+        <li>Hands-on Lab Paper</li>
+        <li>Template invite </li>
+        <li>Solicitar Agenda </li>
+        
+        
+        
+        </ul></div>
+
+
+					</div>
+                    
+                    
+             
+
+#show-more2 {
+	display: block;
+	background-color: #75868E;
+	width: 100px;
+	font-size: 12px;
+	text-transform: uppercase;
+	display: inline-block;
+	margin: 20px auto;
+	cursor: pointer;
+	height: 15px;
+	padding: 10px 0; 
+	
+}
+
+#show-more3 {
+	display: block;
+	background-color: #75868E;
+	width: 100px;
+	font-size: 12px;
+	text-transform: uppercase;
+	display: inline-block;
+	margin: 20px auto;
+	cursor: pointer;
+	height: 15px;
+	padding: 10px 0; 
+	
+}
+
+#show-more4 {
+	display: block;
+	background-color: #75868E;
+	width: 100px;
+	font-size: 12px;
+	text-transform: uppercase;
+	display: inline-block;
+	margin: 20px auto;
+	cursor: pointer;
+	height: 15px;
+	padding: 10px 0; 
+	
+}
+
+#show-more5 {
+	display: block;
+	background-color: #75868E;
+	width: 100px;
+	font-size: 12px;
+	text-transform: uppercase;
+	display: inline-block;
+	margin: 20px auto;
+	cursor: pointer;
+	height: 15px;
+	padding: 10px 0; 
+	
+}
