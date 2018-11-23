@@ -1,7 +1,7 @@
 body {
     font-family: "Segoe UI";
     
-    max-width: 800px;
+    max-width: 960px;
     margin:auto;
     background-color: #0071c5;
 }
@@ -25,7 +25,7 @@ b {color:darkslateblue}
 #model {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 500px;
+    height: 550px;
     margin: 20px 10px;
     padding: 0px 5px 15px 5px;
     max-height: 190px;
@@ -42,7 +42,7 @@ b {color:darkslateblue}
 #model1 {
    width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 500px;
+    height: 600px;
     margin: 20px 10px;
     padding: 0px 5px 15px 5px;
     max-height: 210px;
@@ -59,7 +59,7 @@ b {color:darkslateblue}
 #model2 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 500px;
+    height: 600px;
     margin: 20px 10px;
     padding: 0px 5px 15px 5px;
     max-height: 210px;
@@ -76,7 +76,7 @@ b {color:darkslateblue}
 #model3 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 500px;
+    height: 650px;
     margin: 20px 10px;
     padding: 0px 5px 15px 5px;
     max-height: 200px;
@@ -93,7 +93,7 @@ b {color:darkslateblue}
 #model4 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 500px;
+    height: 650px;
     margin: 20px 10px;
     padding: 0px 5px 15px 5px;
     max-height: 180px;
@@ -110,7 +110,7 @@ b {color:darkslateblue}
 #model5 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 500px;
+    height: 600px;
     margin: 20px 10px;
     padding: 0px 5px 15px 5px;
     max-height: 200px;
@@ -301,4 +301,13 @@ div.inline {
 
 div.text {
     margin-left: 125px
+}
+
+form {
+    margin-right: 500px;
+    border-right: 50px;}
+
+ul {
+    list-style-type: none;
+    padding: 0;
 }
