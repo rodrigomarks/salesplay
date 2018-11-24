@@ -1,311 +1,275 @@
 body {
     font-family: "Segoe UI";
-    
     max-width: 960px;
     margin:auto;
     background-color: #0071c5;
 }
 
 .topo {
-   margin: 20px 230px;
+    margin: 20px 230px 30px;
     width: 500px;
 }
 
+a.nounderline:link {
+    text-decoration:none;
+}
 
-h1 {font-size: 22px;
-color:darkslateblue}
+h1 {
+    font-size: 22px;
+    color:darkslateblue;
+}
 
 b {color:darkslateblue}
 
 #bodypage {
     background-color: white;
-    box-shadow: 5px 5px 50px 15px darkslateblue; 
-}
-
-#model {
-    width: 930px;
-    border-bottom: 1px solid #c1c1c1;
-    height: 550px;
-    margin: 20px 10px;
-    padding: 0px 5px 15px 5px;
-    max-height: 190px;
-    max-width: 1700px;
-    overflow: hidden;
-    background-color: white;
-
-
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-heigth 0.7s;
+    box-shadow: 5px 5px 40px 15px darkslateblue;
+    vertical-align: middle;
 }
 
 #model1 {
-   width: 930px;
+    width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 600px;
-    margin: 20px 10px;
-    padding: 0px 5px 15px 5px;
-    max-height: 210px;
+    height: 440px;
+    margin: 0px 10px;
+    padding: 10px 5px 15px 5px;
+    max-height: 150px;
     max-width: 1700px;
     overflow: hidden;
     background-color: white;
-
-
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-heigth 0.7s;
+    -webkit-transition: max-height 0.6s;
+    -moz-transition: max-height 0.6s;
+    transition: max-heigth 0.6s;
 }
 
 #model2 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 600px;
-    margin: 20px 10px;
+    height: 480px;
+    margin: 0px 10px;
     padding: 0px 5px 15px 5px;
-    max-height: 210px;
+    max-height: 150px;
     max-width: 1700px;
     overflow: hidden;
     background-color: white;
-
-
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-heigth 0.7s;
+    -webkit-transition: max-height 0.6s;
+    -moz-transition: max-height 0.6s;
+    transition: max-heigth 0.6s;
 }
 
 #model3 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 650px;
-    margin: 20px 10px;
+    height: 440px;
+    margin: 0px 10px;
     padding: 0px 5px 15px 5px;
-    max-height: 200px;
+    max-height: 150px;
     max-width: 1700px;
     overflow: hidden;
     background-color: white;
-
-
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-heigth 0.7s;
+    -webkit-transition: max-height 0.6s;
+    -moz-transition: max-height 0.6s;
+    transition: max-heigth 0.6s;
 }
 
 #model4 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 650px;
-    margin: 20px 10px;
+    height: 525px;
+    margin: 0px 10px;
     padding: 0px 5px 15px 5px;
-    max-height: 180px;
+    max-height: 150px;
     max-width: 1700px;
     overflow: hidden;
     background-color: white;
-
-
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-heigth 0.7s;
+    -webkit-transition: max-height 0.6s;
+    -moz-transition: max-height 0.6s;
+    transition: max-heigth 0.6s;
 }
 
 #model5 {
     width: 930px;
     border-bottom: 1px solid #c1c1c1;
-    height: 600px;
-    margin: 20px 10px;
+    height: 525px;
+    margin: 0px 10px;
     padding: 0px 5px 15px 5px;
-    max-height: 200px;
+    max-height: 150px;
     max-width: 1700px;
     overflow: hidden;
     background-color: white;
+    -webkit-transition: max-height 0.6s;
+    -moz-transition: max-height 0.6s;
+    transition: max-heigth 0.6s;
+}
 
-
-    -webkit-transition: max-height 0.7s;
-    -moz-transition: max-height 0.7s;
-    transition: max-heigth 0.7s;
+#model6 {
+    width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 460px;
+    margin: 0px 10px 50px;
+    padding: 0px 5px 20px 5px;
+    max-height: 150px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+    -webkit-transition: max-height 0.6s;
+    -moz-transition: max-height 0.6s;
+    transition: max-heigth 0.6s;
 }
 
 .image {
     width: 100px;
     margin: 15px;
-
 }
-
-
 
 div.inline {
     float: left;
 }
 
-#show-more {
-    display: block;
-    background-color: darkslateblue;
-    width: 70px;
-    font-size: 10px;
-    text-transform: uppercase;
-    color: white;
-    text-align: center;
-    border-radius: 20px;
-    display: inline-block;
-    margin: 8px 0px 8px 390px ;
-    cursor: pointer;
-    height: 12px;
-    padding: 10px 0;
-
-}
 #show-more1 {
     display: block;
     background-color: darkslateblue;
-    width: 70px;
+    width: 50px;
     font-size: 10px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: white;
     text-align: center;
     border-radius: 20px;
-    display: inline-block;
-    margin: 8px 0px 8px 390px ;
+    margin: 8px 0px 8px 40px;
     cursor: pointer;
     height: 12px;
-    padding: 10px 0;
-
+    padding: 5px 0;
 }
 
 #show-more2 {
     display: block;
     background-color: darkslateblue;
-    width: 70px;
+    width: 50px;
     font-size: 10px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: white;
     text-align: center;
     border-radius: 20px;
-    display: inline-block;
-    margin: 8px 0px 8px 440px ;
+    margin: 8px 0px 8px 40px;
     cursor: pointer;
     height: 12px;
-    padding: 10px 0;
-
+    padding: 5px 0;
 }
+
 #show-more3 {
-   display: block;
+    display: block;
     background-color: darkslateblue;
-    width: 70px;
+    width: 50px;
     font-size: 10px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: white;
     text-align: center;
     border-radius: 20px;
-    display: inline-block;
-    margin: 8px 0px 8px 200px ;
+    margin: 8px 0px 8px 40px;
     cursor: pointer;
     height: 12px;
-    padding: 10px 0;
+    padding: 5px 0;
+}
 
-}
 #show-more4 {
-   display: block;
+    display: block;
     background-color: darkslateblue;
-    width: 70px;
+    width: 50px;
     font-size: 10px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: white;
     text-align: center;
     border-radius: 20px;
-    display: inline-block;
-    margin: 8px 20px;
+    margin: 8px 0px 8px 40px;
     cursor: pointer;
     height: 12px;
-    padding: 10px 0;
+    padding: 5px 0;
 }
+
 #show-more5 {
     display: block;
     background-color: darkslateblue;
-    width: 70px;
+    width: 50px;
     font-size: 10px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: white;
     text-align: center;
     border-radius: 20px;
-    display: inline-block;
-    margin: 8px 0px 8px 470px ;
+    margin: 8px 0px 8px 40px;
     cursor: pointer;
     height: 12px;
-    padding: 10px 0;
-
+    padding: 5px 0;
 }
 
-#model.open {
-    max-height: 1000px;
-
-
-    -webkit-transition: max-heigth 2s;
-    -moz-transition: max-heigth 2s;
-    transition: max-heigth 2s;
-
-
+#show-more6 {
+    display: block;
+    background-color: darkslateblue;
+    width: 50px;
+    font-size: 10px;
+    text-transform: lowercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin: 8px 0px 8px 40px;
+    cursor: pointer;
+    height: 12px;
+    padding: 5px 0;
 }
 
 #model1.open {
     max-height: 1000px;
-
-
     -webkit-transition: max-heigth 2s;
     -moz-transition: max-heigth 2s;
     transition: max-heigth 2s;
-
-
 }
 
 #model2.open {
     max-height: 1000px;
-
-
     -webkit-transition: max-heigth 2s;
     -moz-transition: max-heigth 2s;
     transition: max-heigth 2s;
-
-
 }
 
 #model3.open {
     max-height: 1000px;
-
-
     -webkit-transition: max-heigth 2s;
     -moz-transition: max-heigth 2s;
     transition: max-heigth 2s;
-
-
 }
 
 #model4.open {
     max-height: 1000px;
-
-
     -webkit-transition: max-heigth 2s;
     -moz-transition: max-heigth 2s;
     transition: max-heigth 2s;
-
-
 }
 
 #model5.open {
     max-height: 1000px;
-
-
     -webkit-transition: max-heigth 2s;
     -moz-transition: max-heigth 2s;
     transition: max-heigth 2s;
+}
 
-
+#model6.open {
+    max-height: 1000px;
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
 }
 
 div.text {
-    margin-left: 125px
+    margin-left: 125px;
+    margin-right: 20px; 
+    margin-top: 10px;
+    text-align:justify;
 }
 
 form {
-    margin-right: 500px;
-    border-right: 50px;}
+    margin-right: 200px;
+    border-right: 50px;
+
+}
 
 ul {
     list-style-type: none;
