@@ -275,3 +275,8 @@ ul {
     list-style-type: none;
     padding: 0;
 }
+
+#breve {
+    font-size: 8px;
+    color: red;
+}
