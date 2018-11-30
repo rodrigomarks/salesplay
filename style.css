@@ -1,6 +1,6 @@
 body {
     font-family: "Segoe UI";
-    max-width: 960px;
+    max-width: 950px;
     margin:auto;
     background-color: #0071c5;
 }
@@ -25,6 +25,11 @@ b {color:darkslateblue}
     background-color: white;
     box-shadow: 5px 5px 40px 15px darkslateblue;
     vertical-align: middle;
+}
+
+.botton {
+    margin: 0px 300px 0px;
+    width: 350px;
 }
 
 #model1 {
@@ -276,7 +281,3 @@ ul {
     padding: 0;
 }
 
-#breve {
-    font-size: 8px;
-    color: red;
-}
