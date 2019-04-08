@@ -1,3 +1,6 @@
+var content0 = document.getElementById("model0");
+var button0 = document.getElementById("show-more0");
+
 var content1 = document.getElementById("model1");
 var button1 = document.getElementById("show-more1");
 
@@ -15,6 +18,19 @@ var button5 = document.getElementById("show-more5");
 
 var content6 = document.getElementById("model6");
 var button6 = document.getElementById("show-more6");
+
+button0.onclick = function () {
+
+    if (content0.className == "open") {
+        content0.className = "";
+        button0.innerHTML = "+info";
+
+    } else {
+        content0.className = "open";
+        button0.innerHTML = "-info";
+    }
+
+}
 
 button1.onclick = function () {
 
