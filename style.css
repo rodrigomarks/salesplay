@@ -137,6 +137,21 @@ b {color:darkslateblue}
     transition: max-heigth 0.6s;
 }
 
+#model7 {
+    width: 930px;
+    border-bottom: 1px solid #c1c1c1;
+    height: 400px;
+    margin: 0px 10px;
+    padding: 0px 5px 15px 5px;
+    max-height: 150px;
+    max-width: 1700px;
+    overflow: hidden;
+    background-color: white;
+    -webkit-transition: max-height 0.6s;
+    -moz-transition: max-height 0.6s;
+    transition: max-heigth 0.6s;
+}
+
 .image {
     width: 100px;
     margin: 15px;
@@ -251,6 +266,21 @@ div.inline {
     padding: 5px 0;
 }
 
+#show-more7 {
+    display: block;
+    background-color: darkslateblue;
+    width: 50px;
+    font-size: 10px;
+    text-transform: lowercase;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin: 8px 0px 8px 40px;
+    cursor: pointer;
+    height: 12px;
+    padding: 5px 0;
+}
+
 #model0.open {
     max-height: 1000px;
     -webkit-transition: max-heigth 2s;
@@ -294,6 +324,13 @@ div.inline {
 }
 
 #model6.open {
+    max-height: 1000px;
+    -webkit-transition: max-heigth 2s;
+    -moz-transition: max-heigth 2s;
+    transition: max-heigth 2s;
+}
+
+#model7.open {
     max-height: 1000px;
     -webkit-transition: max-heigth 2s;
     -moz-transition: max-heigth 2s;
