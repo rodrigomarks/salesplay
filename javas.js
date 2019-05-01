@@ -19,6 +19,9 @@ var button5 = document.getElementById("show-more5");
 var content6 = document.getElementById("model6");
 var button6 = document.getElementById("show-more6");
 
+var content7 = document.getElementById("model7");
+var button7 = document.getElementById("show-more7");
+
 button0.onclick = function () {
 
     if (content0.className == "open") {
@@ -106,6 +109,19 @@ button6.onclick = function () {
     } else {
         content6.className = "open";
         button6.innerHTML = "-info";
+    }
+
+}
+
+button7.onclick = function () {
+
+    if (content7.className == "open") {
+        content7.className = "";
+        button7.innerHTML = "+info";
+
+    } else {
+        content7.className = "open";
+        button7.innerHTML = "-info";
     }
 
 }
